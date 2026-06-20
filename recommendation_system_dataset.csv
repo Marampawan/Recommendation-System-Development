@@ -1,0 +1,1001 @@
+User_ID,Learning_Module_ID,Module_Category,Skill_Name,Time_Spent_Minutes,Completion_Status,Rating,Last_Access_Date
+39,1,Cloud,Machine Learning,38,In Progress,5,2025-01-01
+29,6,Cloud,Python,289,In Progress,4,2025-01-02
+15,6,AI,AWS,211,Completed,1,2025-01-03
+43,16,ML,SQL,66,In Progress,1,2025-01-04
+8,4,Data Science,SQL,227,In Progress,3,2025-01-05
+21,11,ML,Python,71,In Progress,3,2025-01-06
+39,9,ML,Deep Learning,166,Completed,3,2025-01-07
+19,3,AI,Machine Learning,211,Completed,2,2025-01-08
+23,19,AI,SQL,26,Completed,4,2025-01-09
+11,8,AI,AWS,15,Completed,4,2025-01-10
+11,5,AI,AWS,67,In Progress,4,2025-01-11
+24,4,Cloud,Deep Learning,178,Completed,4,2025-01-12
+36,6,AI,SQL,91,In Progress,3,2025-01-13
+40,2,Cloud,Python,228,In Progress,1,2025-01-14
+24,20,Cloud,AWS,186,In Progress,3,2025-01-15
+3,11,AI,Deep Learning,213,In Progress,4,2025-01-16
+22,4,Python,SQL,80,Completed,3,2025-01-17
+2,15,Data Science,SQL,275,Completed,4,2025-01-18
+24,6,ML,SQL,107,Completed,5,2025-01-19
+44,17,Cloud,SQL,217,Completed,1,2025-01-20
+30,6,Data Science,SQL,11,Completed,5,2025-01-21
+38,19,Python,AWS,133,In Progress,2,2025-01-22
+2,2,ML,Deep Learning,289,Completed,3,2025-01-23
+21,15,ML,SQL,83,Completed,2,2025-01-24
+33,11,Cloud,Machine Learning,175,Completed,3,2025-01-25
+12,8,AI,Machine Learning,31,Completed,5,2025-01-26
+22,19,Python,Deep Learning,163,In Progress,4,2025-01-27
+44,13,Cloud,Python,228,In Progress,4,2025-01-28
+25,12,Python,Python,166,In Progress,3,2025-01-29
+49,5,AI,Python,239,In Progress,4,2025-01-30
+27,6,AI,Machine Learning,29,In Progress,5,2025-01-31
+42,4,Cloud,Python,50,Completed,4,2025-02-01
+28,19,AI,AWS,157,In Progress,5,2025-02-02
+16,20,Data Science,SQL,117,In Progress,2,2025-02-03
+15,1,ML,Machine Learning,93,In Progress,5,2025-02-04
+47,20,Cloud,Deep Learning,299,Completed,1,2025-02-05
+44,17,Python,Deep Learning,143,Completed,1,2025-02-06
+3,12,Data Science,SQL,216,In Progress,1,2025-02-07
+37,15,Cloud,Machine Learning,292,Completed,3,2025-02-08
+7,1,AI,Python,275,Completed,3,2025-02-09
+21,14,AI,Python,82,In Progress,3,2025-02-10
+9,6,AI,AWS,57,Completed,5,2025-02-11
+39,5,AI,AWS,242,Completed,3,2025-02-12
+18,11,Python,Python,109,Completed,2,2025-02-13
+4,4,Data Science,Deep Learning,68,In Progress,1,2025-02-14
+25,13,ML,Deep Learning,267,In Progress,5,2025-02-15
+14,11,Python,AWS,74,In Progress,1,2025-02-16
+50,3,Python,SQL,92,Completed,3,2025-02-17
+9,1,ML,Python,163,In Progress,5,2025-02-18
+26,6,ML,AWS,275,Completed,4,2025-02-19
+2,18,AI,AWS,88,Completed,2,2025-02-20
+20,10,Python,Python,159,Completed,3,2025-02-21
+28,5,Cloud,Python,57,In Progress,3,2025-02-22
+47,10,ML,Deep Learning,257,In Progress,2,2025-02-23
+7,12,ML,SQL,287,In Progress,2,2025-02-24
+44,2,Data Science,SQL,107,In Progress,4,2025-02-25
+8,13,Cloud,Python,34,Completed,3,2025-02-26
+47,8,Cloud,Machine Learning,293,In Progress,3,2025-02-27
+35,2,ML,AWS,77,Completed,1,2025-02-28
+14,20,AI,AWS,16,In Progress,5,2025-03-01
+17,1,Data Science,Python,146,In Progress,5,2025-03-02
+36,5,Cloud,Machine Learning,173,In Progress,1,2025-03-03
+50,9,ML,Deep Learning,92,Completed,5,2025-03-04
+40,17,Cloud,Python,147,Completed,2,2025-03-05
+4,9,Data Science,Python,82,Completed,5,2025-03-06
+2,11,Data Science,AWS,246,Completed,5,2025-03-07
+6,15,Python,Python,55,Completed,1,2025-03-08
+42,6,ML,Python,115,In Progress,4,2025-03-09
+4,3,Data Science,Python,297,Completed,5,2025-03-10
+29,17,Python,AWS,271,Completed,5,2025-03-11
+18,5,Python,Deep Learning,185,Completed,4,2025-03-12
+26,12,Cloud,Deep Learning,175,Completed,1,2025-03-13
+44,18,Cloud,Python,154,In Progress,4,2025-03-14
+34,14,Python,AWS,292,Completed,1,2025-03-15
+10,11,Cloud,Deep Learning,63,In Progress,2,2025-03-16
+36,9,Data Science,Deep Learning,187,In Progress,1,2025-03-17
+14,2,AI,Deep Learning,253,In Progress,2,2025-03-18
+31,12,Data Science,AWS,136,Completed,2,2025-03-19
+48,3,Python,AWS,280,In Progress,1,2025-03-20
+15,3,Python,Python,141,Completed,3,2025-03-21
+8,1,Data Science,SQL,102,Completed,1,2025-03-22
+14,8,Cloud,Deep Learning,82,Completed,5,2025-03-23
+23,8,Cloud,SQL,257,Completed,5,2025-03-24
+40,11,Python,AWS,282,Completed,3,2025-03-25
+21,9,ML,AWS,52,In Progress,2,2025-03-26
+16,5,Cloud,AWS,50,In Progress,3,2025-03-27
+45,14,Data Science,SQL,179,Completed,5,2025-03-28
+18,3,Cloud,AWS,221,In Progress,3,2025-03-29
+47,5,Data Science,Python,177,Completed,1,2025-03-30
+24,5,Python,AWS,48,In Progress,3,2025-03-31
+26,19,Cloud,Machine Learning,254,In Progress,2,2025-04-01
+25,14,Data Science,SQL,160,In Progress,1,2025-04-02
+45,4,Python,Machine Learning,120,In Progress,4,2025-04-03
+41,13,ML,AWS,56,In Progress,5,2025-04-04
+29,10,Data Science,Python,72,Completed,5,2025-04-05
+15,18,ML,Deep Learning,234,Completed,3,2025-04-06
+45,8,ML,AWS,78,In Progress,1,2025-04-07
+1,8,AI,Python,299,Completed,4,2025-04-08
+25,7,Cloud,SQL,212,In Progress,1,2025-04-09
+7,8,Data Science,Machine Learning,70,Completed,5,2025-04-10
+9,14,ML,Machine Learning,170,In Progress,1,2025-04-11
+24,19,AI,Machine Learning,25,In Progress,4,2025-04-12
+1,6,Python,SQL,103,In Progress,3,2025-04-13
+44,1,Data Science,Python,147,Completed,2,2025-04-14
+8,15,ML,SQL,47,Completed,1,2025-04-15
+24,1,Cloud,Machine Learning,136,In Progress,2,2025-04-16
+11,17,AI,AWS,284,In Progress,5,2025-04-17
+17,1,ML,Deep Learning,173,Completed,3,2025-04-18
+8,15,Cloud,SQL,86,Completed,3,2025-04-19
+35,2,ML,SQL,183,Completed,1,2025-04-20
+35,14,Data Science,Python,100,Completed,3,2025-04-21
+33,8,Data Science,Python,247,Completed,1,2025-04-22
+5,8,Data Science,SQL,273,In Progress,1,2025-04-23
+42,19,AI,Machine Learning,188,Completed,2,2025-04-24
+39,7,Data Science,Deep Learning,218,In Progress,3,2025-04-25
+41,19,Cloud,Python,82,In Progress,1,2025-04-26
+28,6,ML,Machine Learning,116,Completed,2,2025-04-27
+7,6,Python,AWS,293,Completed,4,2025-04-28
+9,3,Cloud,Python,191,In Progress,2,2025-04-29
+8,7,Cloud,Machine Learning,46,Completed,2,2025-04-30
+12,19,Data Science,Machine Learning,146,In Progress,1,2025-05-01
+34,8,AI,Deep Learning,65,Completed,5,2025-05-02
+33,10,ML,Deep Learning,196,Completed,5,2025-05-03
+48,20,AI,AWS,267,Completed,5,2025-05-04
+23,15,ML,Machine Learning,67,In Progress,2,2025-05-05
+24,15,ML,Machine Learning,132,Completed,1,2025-05-06
+37,1,AI,Deep Learning,197,In Progress,3,2025-05-07
+35,20,Cloud,Python,239,Completed,2,2025-05-08
+44,7,ML,Python,177,In Progress,2,2025-05-09
+40,4,AI,SQL,123,Completed,1,2025-05-10
+22,6,ML,Deep Learning,261,In Progress,4,2025-05-11
+27,1,Python,SQL,116,In Progress,2,2025-05-12
+35,5,Cloud,Deep Learning,46,In Progress,4,2025-05-13
+1,1,Data Science,AWS,101,In Progress,4,2025-05-14
+35,4,ML,Machine Learning,27,In Progress,5,2025-05-15
+37,2,Python,AWS,72,In Progress,1,2025-05-16
+47,10,Data Science,Deep Learning,159,Completed,4,2025-05-17
+14,5,Data Science,Machine Learning,148,In Progress,1,2025-05-18
+3,10,ML,Python,195,In Progress,5,2025-05-19
+1,1,AI,Python,194,In Progress,1,2025-05-20
+5,6,ML,SQL,214,Completed,2,2025-05-21
+26,13,Python,Deep Learning,269,Completed,4,2025-05-22
+14,15,Data Science,Deep Learning,223,Completed,1,2025-05-23
+39,4,ML,Python,265,In Progress,3,2025-05-24
+27,13,AI,AWS,144,Completed,1,2025-05-25
+9,20,ML,Machine Learning,70,Completed,4,2025-05-26
+15,15,Cloud,AWS,97,In Progress,5,2025-05-27
+15,8,AI,AWS,216,In Progress,5,2025-05-28
+26,5,Python,Python,138,Completed,4,2025-05-29
+42,15,Data Science,Python,12,In Progress,2,2025-05-30
+13,4,ML,Python,251,In Progress,2,2025-05-31
+32,12,AI,SQL,130,In Progress,5,2025-06-01
+39,13,Cloud,AWS,111,In Progress,5,2025-06-02
+49,2,AI,Deep Learning,47,Completed,4,2025-06-03
+32,19,Cloud,Machine Learning,142,In Progress,2,2025-06-04
+4,19,Python,SQL,211,Completed,5,2025-06-05
+30,4,Data Science,Deep Learning,30,Completed,2,2025-06-06
+37,4,Python,AWS,251,Completed,5,2025-06-07
+23,11,ML,Python,118,Completed,1,2025-06-08
+39,5,AI,AWS,93,In Progress,3,2025-06-09
+45,20,Cloud,Machine Learning,92,In Progress,1,2025-06-10
+15,11,Cloud,SQL,78,In Progress,5,2025-06-11
+43,10,AI,SQL,138,Completed,3,2025-06-12
+29,8,AI,Machine Learning,205,Completed,3,2025-06-13
+36,6,ML,Deep Learning,149,Completed,5,2025-06-14
+13,6,Python,Deep Learning,292,In Progress,5,2025-06-15
+32,8,Cloud,SQL,243,Completed,2,2025-06-16
+7,15,ML,SQL,32,In Progress,5,2025-06-17
+22,14,Python,Python,162,In Progress,4,2025-06-18
+28,11,ML,Deep Learning,286,In Progress,5,2025-06-19
+2,12,Cloud,Machine Learning,70,In Progress,4,2025-06-20
+42,13,AI,Deep Learning,61,Completed,5,2025-06-21
+45,8,AI,Python,162,In Progress,2,2025-06-22
+6,18,Python,SQL,246,Completed,4,2025-06-23
+28,1,Data Science,SQL,41,In Progress,1,2025-06-24
+28,15,Python,Python,64,Completed,4,2025-06-25
+44,8,Data Science,Machine Learning,45,Completed,2,2025-06-26
+44,11,ML,SQL,119,In Progress,4,2025-06-27
+20,12,ML,AWS,186,In Progress,5,2025-06-28
+30,12,Cloud,SQL,106,In Progress,5,2025-06-29
+11,4,Data Science,AWS,222,Completed,2,2025-06-30
+28,16,Cloud,Python,146,In Progress,3,2025-07-01
+25,4,AI,Python,15,In Progress,5,2025-07-02
+39,5,Data Science,SQL,118,Completed,1,2025-07-03
+33,5,Python,Deep Learning,44,In Progress,2,2025-07-04
+1,8,AI,AWS,48,Completed,4,2025-07-05
+27,10,AI,Machine Learning,159,In Progress,4,2025-07-06
+13,17,Python,SQL,127,Completed,1,2025-07-07
+41,9,AI,Machine Learning,270,Completed,5,2025-07-08
+3,19,Data Science,SQL,96,In Progress,2,2025-07-09
+39,14,Cloud,Deep Learning,85,Completed,1,2025-07-10
+6,8,AI,Deep Learning,223,In Progress,5,2025-07-11
+8,9,Data Science,Deep Learning,294,In Progress,2,2025-07-12
+27,11,ML,Deep Learning,248,Completed,4,2025-07-13
+9,1,Data Science,Python,174,In Progress,2,2025-07-14
+37,14,Cloud,Python,96,Completed,3,2025-07-15
+33,5,Data Science,AWS,150,Completed,2,2025-07-16
+42,14,Python,Machine Learning,169,Completed,3,2025-07-17
+44,4,Cloud,SQL,55,Completed,2,2025-07-18
+24,1,ML,SQL,121,Completed,3,2025-07-19
+15,19,Python,Python,54,Completed,4,2025-07-20
+32,8,Data Science,SQL,256,Completed,5,2025-07-21
+32,15,Cloud,Python,113,Completed,3,2025-07-22
+24,15,ML,AWS,94,In Progress,3,2025-07-23
+41,9,Python,Machine Learning,143,In Progress,4,2025-07-24
+49,9,ML,AWS,117,Completed,3,2025-07-25
+49,10,Data Science,Deep Learning,27,In Progress,1,2025-07-26
+12,20,ML,Deep Learning,103,In Progress,4,2025-07-27
+39,9,AI,Deep Learning,159,In Progress,1,2025-07-28
+2,3,Python,AWS,255,In Progress,4,2025-07-29
+3,20,ML,SQL,298,In Progress,3,2025-07-30
+49,11,Data Science,Machine Learning,218,In Progress,1,2025-07-31
+37,6,Data Science,Deep Learning,135,Completed,3,2025-08-01
+49,2,ML,Deep Learning,244,In Progress,4,2025-08-02
+17,7,Data Science,Deep Learning,131,In Progress,3,2025-08-03
+49,18,Cloud,Machine Learning,147,In Progress,1,2025-08-04
+2,2,Cloud,Deep Learning,124,In Progress,1,2025-08-05
+2,17,Cloud,Machine Learning,171,Completed,3,2025-08-06
+28,11,AI,Deep Learning,210,Completed,2,2025-08-07
+23,12,ML,AWS,243,Completed,4,2025-08-08
+37,19,AI,AWS,37,Completed,4,2025-08-09
+32,7,Data Science,Machine Learning,20,In Progress,3,2025-08-10
+33,20,AI,AWS,215,Completed,2,2025-08-11
+1,6,Data Science,Machine Learning,176,Completed,1,2025-08-12
+19,1,Data Science,AWS,256,Completed,5,2025-08-13
+2,17,Python,AWS,56,Completed,5,2025-08-14
+44,11,Cloud,Machine Learning,255,In Progress,3,2025-08-15
+26,18,Data Science,SQL,136,Completed,2,2025-08-16
+32,17,Python,AWS,156,In Progress,2,2025-08-17
+6,7,Cloud,Deep Learning,127,Completed,4,2025-08-18
+32,17,Data Science,SQL,161,In Progress,1,2025-08-19
+4,20,Data Science,Machine Learning,81,In Progress,2,2025-08-20
+11,9,AI,SQL,146,Completed,5,2025-08-21
+17,17,AI,Python,184,Completed,1,2025-08-22
+38,20,Cloud,Python,298,Completed,1,2025-08-23
+24,8,Data Science,AWS,28,Completed,3,2025-08-24
+5,17,ML,AWS,204,In Progress,2,2025-08-25
+34,7,AI,Deep Learning,184,In Progress,3,2025-08-26
+6,1,Cloud,SQL,150,Completed,2,2025-08-27
+22,13,Data Science,Python,255,Completed,4,2025-08-28
+11,19,Data Science,AWS,102,In Progress,3,2025-08-29
+48,19,ML,SQL,248,Completed,3,2025-08-30
+16,17,Cloud,AWS,214,In Progress,5,2025-08-31
+33,13,Data Science,AWS,57,Completed,3,2025-09-01
+9,16,AI,Python,254,In Progress,2,2025-09-02
+6,8,ML,Python,137,In Progress,5,2025-09-03
+16,19,Cloud,AWS,291,In Progress,3,2025-09-04
+29,18,ML,Machine Learning,26,In Progress,3,2025-09-05
+3,1,AI,AWS,80,In Progress,4,2025-09-06
+20,14,Cloud,AWS,278,Completed,3,2025-09-07
+36,19,ML,Deep Learning,291,In Progress,1,2025-09-08
+19,15,Python,Deep Learning,16,Completed,5,2025-09-09
+26,18,AI,Deep Learning,112,In Progress,1,2025-09-10
+3,2,AI,Machine Learning,202,In Progress,5,2025-09-11
+19,17,AI,Machine Learning,250,Completed,4,2025-09-12
+20,18,Python,AWS,71,Completed,3,2025-09-13
+32,6,Python,Deep Learning,26,Completed,3,2025-09-14
+7,19,Data Science,Machine Learning,180,Completed,3,2025-09-15
+41,4,ML,Python,34,In Progress,5,2025-09-16
+33,1,Data Science,AWS,260,Completed,3,2025-09-17
+40,8,ML,SQL,262,In Progress,1,2025-09-18
+39,7,Python,AWS,216,Completed,3,2025-09-19
+18,3,Python,SQL,38,Completed,4,2025-09-20
+40,10,Data Science,Deep Learning,126,In Progress,1,2025-09-21
+1,10,Cloud,SQL,291,In Progress,3,2025-09-22
+11,19,Data Science,Deep Learning,153,Completed,3,2025-09-23
+28,14,ML,Python,34,In Progress,2,2025-09-24
+25,2,Data Science,SQL,165,In Progress,5,2025-09-25
+50,1,AI,AWS,82,In Progress,1,2025-09-26
+23,18,ML,Deep Learning,129,In Progress,2,2025-09-27
+31,7,ML,AWS,102,In Progress,4,2025-09-28
+30,8,Cloud,Machine Learning,95,In Progress,5,2025-09-29
+42,1,Python,Deep Learning,127,In Progress,1,2025-09-30
+35,3,ML,SQL,242,In Progress,3,2025-10-01
+7,8,Python,Deep Learning,208,Completed,1,2025-10-02
+16,15,Data Science,AWS,215,In Progress,3,2025-10-03
+26,5,AI,Python,156,Completed,5,2025-10-04
+48,3,Cloud,Deep Learning,280,In Progress,3,2025-10-05
+49,19,Python,SQL,148,In Progress,4,2025-10-06
+2,1,ML,Machine Learning,190,In Progress,3,2025-10-07
+1,15,Python,Python,39,In Progress,4,2025-10-08
+48,8,ML,Machine Learning,66,Completed,5,2025-10-09
+12,2,Python,Deep Learning,241,Completed,5,2025-10-10
+5,3,ML,AWS,155,In Progress,1,2025-10-11
+37,14,Data Science,AWS,57,Completed,4,2025-10-12
+32,14,ML,SQL,203,In Progress,4,2025-10-13
+9,11,ML,AWS,233,In Progress,2,2025-10-14
+41,16,AI,Python,145,Completed,2,2025-10-15
+35,4,ML,AWS,31,Completed,2,2025-10-16
+19,20,AI,SQL,15,In Progress,3,2025-10-17
+48,5,Cloud,Deep Learning,213,In Progress,2,2025-10-18
+16,14,AI,Deep Learning,248,Completed,4,2025-10-19
+3,16,Data Science,AWS,194,In Progress,3,2025-10-20
+20,18,AI,Machine Learning,229,Completed,5,2025-10-21
+24,7,Cloud,Deep Learning,125,In Progress,1,2025-10-22
+33,10,Data Science,AWS,58,In Progress,2,2025-10-23
+24,7,Python,SQL,182,Completed,5,2025-10-24
+11,1,Python,AWS,91,Completed,4,2025-10-25
+49,19,AI,Deep Learning,54,Completed,1,2025-10-26
+8,16,AI,SQL,29,In Progress,5,2025-10-27
+36,19,Cloud,AWS,230,In Progress,1,2025-10-28
+38,4,Cloud,Python,132,In Progress,2,2025-10-29
+40,18,ML,SQL,243,In Progress,4,2025-10-30
+20,2,Cloud,Python,230,Completed,1,2025-10-31
+35,1,ML,Machine Learning,12,In Progress,5,2025-11-01
+48,15,Data Science,SQL,191,In Progress,2,2025-11-02
+25,5,AI,Python,215,In Progress,2,2025-11-03
+35,20,Data Science,Deep Learning,49,Completed,5,2025-11-04
+25,11,Cloud,Deep Learning,68,In Progress,5,2025-11-05
+29,10,Data Science,Machine Learning,71,In Progress,1,2025-11-06
+18,2,Data Science,SQL,141,Completed,3,2025-11-07
+46,3,Data Science,SQL,69,In Progress,2,2025-11-08
+18,12,Cloud,SQL,131,In Progress,1,2025-11-09
+2,20,Data Science,Machine Learning,116,Completed,5,2025-11-10
+35,5,ML,SQL,105,In Progress,1,2025-11-11
+16,5,Cloud,Deep Learning,244,In Progress,5,2025-11-12
+41,6,Data Science,Python,71,In Progress,4,2025-11-13
+36,9,Cloud,Deep Learning,265,Completed,5,2025-11-14
+33,2,Python,Deep Learning,58,In Progress,5,2025-11-15
+4,12,ML,Python,168,In Progress,5,2025-11-16
+33,3,Data Science,Deep Learning,133,Completed,3,2025-11-17
+14,20,Python,Machine Learning,216,Completed,5,2025-11-18
+21,12,Python,Python,57,In Progress,2,2025-11-19
+48,17,Cloud,Deep Learning,145,In Progress,2,2025-11-20
+20,10,Python,AWS,210,In Progress,1,2025-11-21
+8,14,ML,Deep Learning,259,In Progress,3,2025-11-22
+7,17,ML,Machine Learning,218,Completed,1,2025-11-23
+3,18,AI,SQL,220,In Progress,2,2025-11-24
+17,19,ML,Deep Learning,201,Completed,2,2025-11-25
+33,17,Python,SQL,53,Completed,4,2025-11-26
+48,14,ML,AWS,38,In Progress,5,2025-11-27
+12,9,Cloud,Deep Learning,68,In Progress,2,2025-11-28
+22,8,AI,Python,80,Completed,1,2025-11-29
+22,2,Python,SQL,101,Completed,1,2025-11-30
+46,13,AI,AWS,274,In Progress,5,2025-12-01
+30,7,Python,Python,229,Completed,5,2025-12-02
+38,9,Cloud,Python,224,In Progress,4,2025-12-03
+38,11,AI,Python,286,In Progress,3,2025-12-04
+45,14,Data Science,Python,73,Completed,1,2025-12-05
+8,4,Python,Deep Learning,254,Completed,5,2025-12-06
+27,13,Data Science,Deep Learning,71,In Progress,1,2025-12-07
+27,2,AI,Deep Learning,179,Completed,5,2025-12-08
+34,5,Data Science,AWS,278,In Progress,2,2025-12-09
+21,11,Data Science,AWS,276,In Progress,1,2025-12-10
+30,6,AI,AWS,63,In Progress,2,2025-12-11
+33,18,Cloud,Machine Learning,25,Completed,1,2025-12-12
+28,10,Data Science,AWS,17,In Progress,3,2025-12-13
+47,4,Data Science,Deep Learning,113,In Progress,4,2025-12-14
+33,9,Cloud,Deep Learning,68,In Progress,2,2025-12-15
+5,6,Data Science,Machine Learning,49,In Progress,5,2025-12-16
+48,2,Data Science,Machine Learning,246,In Progress,3,2025-12-17
+19,17,Data Science,AWS,103,In Progress,1,2025-12-18
+4,5,ML,SQL,231,In Progress,2,2025-12-19
+35,6,Cloud,Machine Learning,213,In Progress,1,2025-12-20
+49,12,Data Science,Python,147,In Progress,1,2025-12-21
+17,10,Cloud,Deep Learning,216,In Progress,1,2025-12-22
+44,6,Python,Python,90,In Progress,4,2025-12-23
+28,8,Python,Deep Learning,227,Completed,4,2025-12-24
+30,2,Data Science,Deep Learning,11,In Progress,5,2025-12-25
+29,12,Cloud,Machine Learning,187,In Progress,2,2025-12-26
+46,13,Cloud,Machine Learning,288,In Progress,3,2025-12-27
+6,7,Cloud,Python,155,Completed,3,2025-12-28
+35,10,ML,Deep Learning,233,In Progress,3,2025-12-29
+41,13,Python,Python,71,Completed,1,2025-12-30
+37,17,Cloud,SQL,248,In Progress,4,2025-12-31
+24,14,Cloud,Python,204,In Progress,2,2026-01-01
+29,2,ML,AWS,175,Completed,1,2026-01-02
+49,11,ML,Python,231,In Progress,4,2026-01-03
+46,1,Cloud,AWS,70,Completed,4,2026-01-04
+31,19,AI,AWS,138,Completed,2,2026-01-05
+35,4,Cloud,AWS,182,In Progress,2,2026-01-06
+33,19,Cloud,SQL,165,In Progress,2,2026-01-07
+21,11,ML,Python,119,In Progress,1,2026-01-08
+32,8,ML,Python,278,In Progress,5,2026-01-09
+23,11,Cloud,SQL,287,Completed,2,2026-01-10
+33,4,Cloud,Deep Learning,83,Completed,5,2026-01-11
+3,17,Cloud,Machine Learning,216,In Progress,1,2026-01-12
+18,7,ML,Python,288,Completed,5,2026-01-13
+25,8,Cloud,Machine Learning,213,Completed,3,2026-01-14
+42,3,Cloud,SQL,170,In Progress,5,2026-01-15
+31,2,Data Science,Deep Learning,37,Completed,2,2026-01-16
+3,15,AI,Deep Learning,266,Completed,1,2026-01-17
+40,5,Python,Deep Learning,174,In Progress,2,2026-01-18
+46,1,AI,SQL,72,Completed,3,2026-01-19
+24,4,Data Science,AWS,31,In Progress,2,2026-01-20
+50,15,Python,AWS,79,Completed,2,2026-01-21
+32,20,Cloud,Machine Learning,105,In Progress,2,2026-01-22
+47,19,Data Science,AWS,172,Completed,4,2026-01-23
+22,3,Cloud,AWS,88,Completed,3,2026-01-24
+23,20,ML,Deep Learning,14,In Progress,2,2026-01-25
+2,11,Data Science,Deep Learning,129,In Progress,2,2026-01-26
+27,17,ML,Machine Learning,187,In Progress,2,2026-01-27
+42,13,Data Science,Python,185,In Progress,1,2026-01-28
+2,11,Data Science,Machine Learning,226,Completed,4,2026-01-29
+26,2,ML,Machine Learning,65,Completed,1,2026-01-30
+17,9,Python,SQL,196,Completed,4,2026-01-31
+40,2,AI,SQL,241,In Progress,2,2026-02-01
+33,9,Cloud,Machine Learning,264,Completed,3,2026-02-02
+9,9,Data Science,Machine Learning,113,Completed,5,2026-02-03
+43,8,Cloud,Machine Learning,86,In Progress,5,2026-02-04
+48,17,ML,AWS,239,In Progress,2,2026-02-05
+39,1,Cloud,SQL,267,Completed,1,2026-02-06
+29,11,ML,Machine Learning,273,In Progress,3,2026-02-07
+42,8,Cloud,Deep Learning,191,Completed,4,2026-02-08
+26,10,AI,Deep Learning,265,Completed,2,2026-02-09
+35,7,AI,AWS,47,In Progress,3,2026-02-10
+50,3,AI,AWS,185,Completed,3,2026-02-11
+25,3,AI,Python,36,In Progress,4,2026-02-12
+24,18,AI,Python,285,In Progress,3,2026-02-13
+13,5,AI,Python,149,Completed,1,2026-02-14
+7,12,ML,AWS,296,Completed,1,2026-02-15
+36,12,Data Science,AWS,100,Completed,1,2026-02-16
+45,19,Cloud,AWS,70,In Progress,3,2026-02-17
+20,6,AI,Deep Learning,172,Completed,1,2026-02-18
+1,2,ML,AWS,152,In Progress,4,2026-02-19
+8,12,ML,Deep Learning,262,In Progress,3,2026-02-20
+46,19,ML,Python,278,Completed,5,2026-02-21
+16,5,Data Science,Python,196,In Progress,3,2026-02-22
+14,12,Cloud,Python,95,Completed,4,2026-02-23
+12,17,Data Science,Machine Learning,175,Completed,5,2026-02-24
+23,17,Python,Machine Learning,123,Completed,3,2026-02-25
+15,10,ML,SQL,192,Completed,1,2026-02-26
+28,17,Python,SQL,216,Completed,2,2026-02-27
+34,15,AI,SQL,265,Completed,2,2026-02-28
+2,12,AI,Machine Learning,244,Completed,1,2026-03-01
+32,16,Data Science,Machine Learning,12,In Progress,2,2026-03-02
+23,19,Cloud,SQL,217,Completed,2,2026-03-03
+22,8,Python,SQL,206,In Progress,1,2026-03-04
+25,17,Cloud,AWS,134,In Progress,1,2026-03-05
+22,5,Data Science,SQL,147,In Progress,3,2026-03-06
+22,16,AI,AWS,34,Completed,3,2026-03-07
+49,6,Cloud,Deep Learning,77,In Progress,1,2026-03-08
+42,8,Cloud,Machine Learning,70,In Progress,4,2026-03-09
+6,18,AI,SQL,38,Completed,2,2026-03-10
+15,12,Python,Machine Learning,28,Completed,3,2026-03-11
+43,15,AI,Machine Learning,180,In Progress,2,2026-03-12
+37,9,Cloud,Machine Learning,83,Completed,5,2026-03-13
+33,13,Python,Deep Learning,70,Completed,1,2026-03-14
+8,15,Python,Python,162,Completed,4,2026-03-15
+44,10,AI,SQL,285,Completed,5,2026-03-16
+44,16,Cloud,Python,57,In Progress,5,2026-03-17
+5,7,Data Science,Python,220,Completed,5,2026-03-18
+39,17,Cloud,Python,148,Completed,1,2026-03-19
+4,7,ML,Machine Learning,119,Completed,3,2026-03-20
+6,14,Data Science,AWS,192,In Progress,1,2026-03-21
+45,15,Python,Machine Learning,37,In Progress,3,2026-03-22
+32,7,Data Science,Machine Learning,206,Completed,5,2026-03-23
+30,9,Python,Python,200,Completed,5,2026-03-24
+47,19,Python,Machine Learning,60,In Progress,4,2026-03-25
+35,16,Data Science,Python,158,Completed,3,2026-03-26
+40,8,Python,AWS,277,Completed,5,2026-03-27
+16,18,Python,SQL,59,In Progress,2,2026-03-28
+13,18,ML,Python,255,Completed,4,2026-03-29
+50,20,Cloud,AWS,122,Completed,1,2026-03-30
+42,7,Cloud,SQL,179,In Progress,4,2026-03-31
+30,3,ML,Deep Learning,175,In Progress,2,2026-04-01
+19,18,Data Science,Python,23,Completed,3,2026-04-02
+17,10,AI,Python,212,In Progress,1,2026-04-03
+19,7,AI,Deep Learning,297,Completed,1,2026-04-04
+28,17,AI,Deep Learning,198,Completed,3,2026-04-05
+26,14,ML,Python,164,Completed,4,2026-04-06
+37,3,ML,Deep Learning,64,In Progress,5,2026-04-07
+26,12,Python,Machine Learning,191,In Progress,4,2026-04-08
+23,13,AI,SQL,219,Completed,2,2026-04-09
+9,2,Data Science,SQL,84,Completed,5,2026-04-10
+12,3,Data Science,SQL,286,In Progress,4,2026-04-11
+1,5,AI,Machine Learning,142,In Progress,3,2026-04-12
+1,11,AI,Deep Learning,68,In Progress,2,2026-04-13
+47,8,AI,AWS,191,Completed,2,2026-04-14
+34,12,ML,Deep Learning,73,In Progress,2,2026-04-15
+32,7,ML,Python,269,In Progress,5,2026-04-16
+48,15,ML,SQL,202,Completed,1,2026-04-17
+25,17,Cloud,Deep Learning,152,Completed,5,2026-04-18
+40,4,Data Science,AWS,113,Completed,4,2026-04-19
+45,13,Data Science,Python,223,In Progress,1,2026-04-20
+1,18,Python,Machine Learning,251,Completed,4,2026-04-21
+16,1,ML,Machine Learning,218,Completed,1,2026-04-22
+39,16,Cloud,AWS,102,Completed,5,2026-04-23
+5,13,Cloud,Python,151,Completed,2,2026-04-24
+22,10,Data Science,SQL,121,In Progress,3,2026-04-25
+29,12,ML,Deep Learning,68,Completed,2,2026-04-26
+3,2,Python,Python,52,In Progress,5,2026-04-27
+12,3,ML,Machine Learning,216,In Progress,1,2026-04-28
+26,10,AI,AWS,277,In Progress,2,2026-04-29
+16,2,ML,AWS,127,Completed,5,2026-04-30
+37,13,AI,Deep Learning,29,In Progress,4,2026-05-01
+22,13,AI,AWS,231,Completed,3,2026-05-02
+29,18,Python,AWS,175,Completed,2,2026-05-03
+14,3,Data Science,Python,140,Completed,1,2026-05-04
+28,7,ML,SQL,165,In Progress,4,2026-05-05
+5,14,AI,Deep Learning,193,Completed,5,2026-05-06
+47,20,ML,Python,99,Completed,3,2026-05-07
+49,17,Data Science,SQL,103,Completed,1,2026-05-08
+30,12,Data Science,Python,22,In Progress,5,2026-05-09
+46,16,Cloud,Python,239,In Progress,5,2026-05-10
+5,12,Data Science,AWS,35,In Progress,2,2026-05-11
+12,15,Python,SQL,84,Completed,2,2026-05-12
+16,10,AI,Deep Learning,159,In Progress,1,2026-05-13
+26,7,Cloud,Deep Learning,157,Completed,5,2026-05-14
+26,20,Python,SQL,17,Completed,2,2026-05-15
+48,5,ML,AWS,38,In Progress,3,2026-05-16
+21,1,AI,Machine Learning,218,Completed,3,2026-05-17
+39,17,Data Science,Python,137,In Progress,5,2026-05-18
+36,3,AI,AWS,125,Completed,2,2026-05-19
+33,13,ML,SQL,153,In Progress,1,2026-05-20
+30,14,Cloud,Python,244,Completed,1,2026-05-21
+37,18,Cloud,Deep Learning,16,Completed,1,2026-05-22
+23,4,Cloud,Machine Learning,54,Completed,3,2026-05-23
+10,18,Data Science,Deep Learning,248,Completed,2,2026-05-24
+5,5,Python,SQL,164,Completed,2,2026-05-25
+36,16,Python,Python,190,In Progress,3,2026-05-26
+34,1,AI,SQL,224,Completed,1,2026-05-27
+31,14,Data Science,Python,97,In Progress,1,2026-05-28
+10,15,Cloud,AWS,265,In Progress,5,2026-05-29
+19,9,Cloud,Machine Learning,82,In Progress,4,2026-05-30
+32,15,ML,AWS,188,Completed,2,2026-05-31
+1,17,ML,AWS,221,Completed,2,2026-06-01
+5,4,Cloud,SQL,243,Completed,2,2026-06-02
+45,12,Cloud,Machine Learning,248,In Progress,4,2026-06-03
+4,5,Data Science,Python,232,Completed,5,2026-06-04
+16,5,Python,Python,128,Completed,4,2026-06-05
+24,11,ML,Deep Learning,273,In Progress,1,2026-06-06
+16,6,Python,Python,216,In Progress,1,2026-06-07
+2,7,Data Science,SQL,104,In Progress,2,2026-06-08
+49,14,Cloud,AWS,231,In Progress,3,2026-06-09
+28,11,Python,AWS,285,In Progress,2,2026-06-10
+32,13,Cloud,AWS,240,In Progress,3,2026-06-11
+27,2,Cloud,Machine Learning,128,Completed,4,2026-06-12
+20,7,AI,Python,277,In Progress,1,2026-06-13
+24,20,Python,SQL,282,Completed,3,2026-06-14
+12,4,Python,Machine Learning,73,Completed,4,2026-06-15
+50,8,Cloud,Deep Learning,20,Completed,1,2026-06-16
+35,20,Data Science,SQL,107,In Progress,3,2026-06-17
+33,19,AI,SQL,80,Completed,2,2026-06-18
+33,13,Cloud,SQL,67,In Progress,2,2026-06-19
+43,14,ML,AWS,299,In Progress,2,2026-06-20
+37,10,ML,SQL,260,Completed,4,2026-06-21
+12,11,AI,Python,285,In Progress,2,2026-06-22
+3,2,Data Science,SQL,59,Completed,5,2026-06-23
+1,9,Cloud,AWS,225,Completed,1,2026-06-24
+33,17,Python,SQL,61,In Progress,4,2026-06-25
+40,3,AI,Deep Learning,280,Completed,2,2026-06-26
+10,6,Data Science,Deep Learning,93,Completed,1,2026-06-27
+43,5,Python,AWS,135,Completed,3,2026-06-28
+44,5,ML,Python,81,In Progress,2,2026-06-29
+29,15,ML,Python,245,Completed,1,2026-06-30
+13,17,Python,Machine Learning,65,In Progress,5,2026-07-01
+12,9,AI,AWS,119,In Progress,3,2026-07-02
+31,3,ML,SQL,201,Completed,5,2026-07-03
+46,20,Cloud,AWS,102,Completed,1,2026-07-04
+2,17,Python,Machine Learning,65,In Progress,5,2026-07-05
+50,10,Python,AWS,69,In Progress,1,2026-07-06
+35,3,ML,AWS,147,Completed,1,2026-07-07
+23,18,AI,Machine Learning,48,Completed,5,2026-07-08
+17,18,Cloud,Python,37,In Progress,1,2026-07-09
+26,17,AI,SQL,58,In Progress,2,2026-07-10
+8,3,Data Science,Machine Learning,134,In Progress,1,2026-07-11
+29,3,Data Science,Deep Learning,22,In Progress,4,2026-07-12
+26,6,ML,Python,45,In Progress,1,2026-07-13
+10,13,ML,Deep Learning,110,Completed,4,2026-07-14
+26,15,ML,Python,291,In Progress,1,2026-07-15
+34,9,Data Science,SQL,95,In Progress,1,2026-07-16
+41,4,AI,SQL,13,Completed,5,2026-07-17
+7,14,AI,AWS,232,Completed,2,2026-07-18
+4,5,ML,Deep Learning,175,In Progress,2,2026-07-19
+50,2,Cloud,Python,287,In Progress,3,2026-07-20
+45,11,AI,SQL,139,Completed,5,2026-07-21
+11,9,Data Science,Machine Learning,40,In Progress,5,2026-07-22
+29,3,Python,SQL,20,In Progress,2,2026-07-23
+36,9,Python,Machine Learning,105,Completed,5,2026-07-24
+25,3,Python,Python,199,In Progress,2,2026-07-25
+21,2,Cloud,SQL,201,Completed,5,2026-07-26
+36,12,ML,SQL,275,Completed,1,2026-07-27
+10,10,Data Science,Python,137,Completed,2,2026-07-28
+37,9,Cloud,SQL,247,Completed,2,2026-07-29
+9,15,Data Science,Machine Learning,121,In Progress,4,2026-07-30
+24,8,Data Science,SQL,154,Completed,5,2026-07-31
+35,5,ML,Deep Learning,74,In Progress,5,2026-08-01
+49,11,Python,AWS,256,In Progress,2,2026-08-02
+35,2,ML,Machine Learning,232,In Progress,1,2026-08-03
+48,15,Cloud,Deep Learning,115,In Progress,1,2026-08-04
+36,6,Cloud,Python,190,In Progress,1,2026-08-05
+18,8,Cloud,Machine Learning,193,Completed,5,2026-08-06
+49,5,ML,AWS,235,Completed,4,2026-08-07
+39,16,Data Science,AWS,274,Completed,2,2026-08-08
+32,18,Data Science,Python,287,Completed,3,2026-08-09
+24,6,AI,Python,98,In Progress,4,2026-08-10
+23,5,Cloud,Machine Learning,185,Completed,3,2026-08-11
+32,16,Data Science,SQL,27,In Progress,4,2026-08-12
+37,13,AI,Python,115,In Progress,1,2026-08-13
+12,5,Data Science,SQL,280,Completed,5,2026-08-14
+49,13,Cloud,Deep Learning,176,Completed,3,2026-08-15
+13,17,Python,AWS,22,Completed,4,2026-08-16
+23,18,Cloud,SQL,41,Completed,5,2026-08-17
+25,8,ML,AWS,49,In Progress,3,2026-08-18
+35,13,Data Science,SQL,157,In Progress,2,2026-08-19
+41,19,Data Science,Deep Learning,227,Completed,4,2026-08-20
+30,3,ML,Python,228,In Progress,2,2026-08-21
+17,8,ML,Deep Learning,91,In Progress,1,2026-08-22
+49,2,Python,Python,217,In Progress,2,2026-08-23
+20,8,Data Science,Python,210,Completed,2,2026-08-24
+48,13,Data Science,AWS,47,In Progress,4,2026-08-25
+25,13,Python,Deep Learning,220,Completed,1,2026-08-26
+22,1,AI,SQL,258,Completed,2,2026-08-27
+13,6,Python,Deep Learning,236,In Progress,5,2026-08-28
+19,19,Cloud,AWS,57,In Progress,3,2026-08-29
+49,16,Data Science,Python,27,Completed,2,2026-08-30
+36,8,ML,AWS,205,In Progress,1,2026-08-31
+12,1,Cloud,Machine Learning,196,In Progress,2,2026-09-01
+41,16,Data Science,Machine Learning,233,Completed,3,2026-09-02
+19,9,Python,SQL,238,Completed,1,2026-09-03
+12,13,Cloud,AWS,86,Completed,4,2026-09-04
+9,11,Data Science,SQL,197,Completed,1,2026-09-05
+7,13,AI,SQL,279,In Progress,4,2026-09-06
+28,10,AI,Machine Learning,104,In Progress,1,2026-09-07
+14,4,ML,SQL,141,Completed,3,2026-09-08
+31,6,Data Science,Machine Learning,48,Completed,3,2026-09-09
+19,7,AI,Python,81,Completed,1,2026-09-10
+47,5,Python,AWS,290,In Progress,2,2026-09-11
+16,11,Data Science,SQL,169,Completed,3,2026-09-12
+5,13,Python,Machine Learning,196,In Progress,4,2026-09-13
+35,19,Python,Deep Learning,200,Completed,4,2026-09-14
+12,10,AI,SQL,129,Completed,5,2026-09-15
+25,10,Data Science,Python,229,Completed,4,2026-09-16
+21,11,Cloud,Python,62,In Progress,5,2026-09-17
+36,7,AI,Deep Learning,231,In Progress,1,2026-09-18
+23,18,AI,Machine Learning,140,In Progress,1,2026-09-19
+16,4,Data Science,SQL,246,Completed,1,2026-09-20
+39,2,Data Science,Machine Learning,255,In Progress,2,2026-09-21
+45,14,Python,Python,235,In Progress,2,2026-09-22
+42,13,Data Science,Machine Learning,217,Completed,5,2026-09-23
+39,12,Python,Python,105,Completed,4,2026-09-24
+14,7,AI,Machine Learning,209,In Progress,4,2026-09-25
+31,2,ML,Deep Learning,256,In Progress,1,2026-09-26
+5,13,Cloud,AWS,81,In Progress,3,2026-09-27
+35,14,AI,Deep Learning,194,In Progress,2,2026-09-28
+23,17,Data Science,Deep Learning,15,Completed,2,2026-09-29
+29,9,Cloud,AWS,215,Completed,1,2026-09-30
+43,17,ML,AWS,41,Completed,2,2026-10-01
+11,8,ML,SQL,108,In Progress,1,2026-10-02
+18,2,Python,SQL,265,In Progress,5,2026-10-03
+47,13,Cloud,Deep Learning,196,Completed,4,2026-10-04
+12,3,Python,Deep Learning,85,Completed,3,2026-10-05
+9,16,AI,Python,186,In Progress,4,2026-10-06
+10,6,Cloud,Python,296,In Progress,4,2026-10-07
+44,19,AI,SQL,264,Completed,5,2026-10-08
+17,7,Python,SQL,199,Completed,2,2026-10-09
+38,10,Cloud,Python,136,Completed,3,2026-10-10
+7,9,Python,Python,296,In Progress,2,2026-10-11
+46,2,Cloud,Machine Learning,263,In Progress,4,2026-10-12
+13,15,Python,Machine Learning,222,In Progress,1,2026-10-13
+40,5,ML,Python,259,In Progress,4,2026-10-14
+42,4,Python,Machine Learning,93,In Progress,2,2026-10-15
+9,20,ML,AWS,22,In Progress,4,2026-10-16
+50,4,Python,SQL,54,Completed,1,2026-10-17
+27,18,Cloud,SQL,136,Completed,5,2026-10-18
+2,4,Cloud,Python,123,In Progress,2,2026-10-19
+5,17,Cloud,Deep Learning,285,Completed,4,2026-10-20
+29,12,Data Science,Python,214,In Progress,2,2026-10-21
+37,17,AI,Machine Learning,282,Completed,5,2026-10-22
+38,10,Cloud,Deep Learning,67,In Progress,4,2026-10-23
+19,1,ML,Machine Learning,228,Completed,4,2026-10-24
+8,18,Cloud,AWS,118,Completed,2,2026-10-25
+48,18,Data Science,Machine Learning,288,In Progress,2,2026-10-26
+45,14,ML,AWS,183,In Progress,1,2026-10-27
+1,15,Data Science,AWS,273,Completed,5,2026-10-28
+22,12,ML,Machine Learning,120,Completed,1,2026-10-29
+17,4,Python,Machine Learning,196,In Progress,4,2026-10-30
+7,3,AI,AWS,278,Completed,2,2026-10-31
+25,20,AI,Deep Learning,238,In Progress,4,2026-11-01
+45,12,Data Science,AWS,165,In Progress,4,2026-11-02
+4,7,AI,SQL,198,Completed,3,2026-11-03
+36,11,Data Science,AWS,281,In Progress,3,2026-11-04
+6,1,Data Science,Deep Learning,11,Completed,4,2026-11-05
+31,6,Data Science,SQL,255,Completed,2,2026-11-06
+19,15,AI,Python,219,In Progress,4,2026-11-07
+44,15,Data Science,Python,295,Completed,3,2026-11-08
+39,19,AI,Deep Learning,22,In Progress,2,2026-11-09
+27,11,Data Science,AWS,105,In Progress,4,2026-11-10
+10,2,Cloud,Machine Learning,230,In Progress,5,2026-11-11
+26,14,Data Science,Deep Learning,247,Completed,5,2026-11-12
+19,2,ML,SQL,103,In Progress,4,2026-11-13
+39,4,Data Science,SQL,278,Completed,2,2026-11-14
+3,17,Python,Python,180,In Progress,4,2026-11-15
+45,3,Data Science,SQL,103,In Progress,4,2026-11-16
+13,13,ML,Deep Learning,158,In Progress,3,2026-11-17
+50,9,ML,SQL,121,Completed,5,2026-11-18
+28,7,AI,Deep Learning,64,Completed,3,2026-11-19
+20,15,Cloud,Machine Learning,125,In Progress,3,2026-11-20
+28,11,Data Science,Python,152,In Progress,4,2026-11-21
+8,20,AI,SQL,210,Completed,3,2026-11-22
+41,2,Cloud,Deep Learning,189,Completed,5,2026-11-23
+39,15,Data Science,AWS,211,Completed,3,2026-11-24
+1,14,Python,Python,62,In Progress,5,2026-11-25
+3,20,Data Science,Machine Learning,189,Completed,3,2026-11-26
+13,11,ML,Deep Learning,146,In Progress,5,2026-11-27
+28,3,ML,Machine Learning,191,Completed,3,2026-11-28
+49,17,Python,Machine Learning,10,In Progress,3,2026-11-29
+25,12,AI,SQL,53,In Progress,2,2026-11-30
+33,15,Cloud,SQL,236,In Progress,5,2026-12-01
+38,16,Data Science,Deep Learning,107,Completed,5,2026-12-02
+6,5,ML,AWS,217,Completed,5,2026-12-03
+44,20,AI,Deep Learning,274,Completed,1,2026-12-04
+45,6,Python,AWS,297,In Progress,3,2026-12-05
+32,19,ML,Machine Learning,280,In Progress,5,2026-12-06
+45,5,Python,Python,149,Completed,1,2026-12-07
+47,3,Data Science,Deep Learning,246,In Progress,2,2026-12-08
+21,1,Cloud,Deep Learning,81,In Progress,5,2026-12-09
+16,6,ML,AWS,164,In Progress,5,2026-12-10
+21,15,ML,Machine Learning,199,Completed,1,2026-12-11
+11,2,Data Science,Machine Learning,277,In Progress,3,2026-12-12
+37,3,AI,AWS,116,Completed,2,2026-12-13
+36,17,Cloud,Machine Learning,241,Completed,5,2026-12-14
+35,12,ML,SQL,51,Completed,3,2026-12-15
+19,18,Cloud,Python,199,Completed,2,2026-12-16
+20,15,ML,Deep Learning,148,Completed,4,2026-12-17
+18,12,Cloud,Python,112,In Progress,4,2026-12-18
+47,16,Python,Deep Learning,180,Completed,2,2026-12-19
+41,8,ML,SQL,282,Completed,1,2026-12-20
+49,14,Cloud,Machine Learning,230,Completed,2,2026-12-21
+14,17,AI,AWS,222,In Progress,2,2026-12-22
+15,8,Python,SQL,65,In Progress,1,2026-12-23
+31,15,Python,Python,111,In Progress,1,2026-12-24
+1,14,AI,AWS,201,In Progress,3,2026-12-25
+3,18,Cloud,Machine Learning,209,Completed,3,2026-12-26
+16,20,Data Science,SQL,242,Completed,1,2026-12-27
+23,7,AI,AWS,236,In Progress,4,2026-12-28
+11,3,Cloud,SQL,148,In Progress,4,2026-12-29
+12,12,AI,SQL,158,In Progress,2,2026-12-30
+10,3,AI,Machine Learning,124,In Progress,5,2026-12-31
+32,20,ML,Deep Learning,72,Completed,2,2027-01-01
+16,14,Cloud,AWS,113,In Progress,2,2027-01-02
+8,15,Data Science,Machine Learning,165,In Progress,5,2027-01-03
+38,14,ML,SQL,282,In Progress,1,2027-01-04
+12,7,AI,Machine Learning,15,In Progress,4,2027-01-05
+24,17,AI,Deep Learning,156,In Progress,2,2027-01-06
+28,12,AI,AWS,193,In Progress,5,2027-01-07
+8,20,Cloud,Deep Learning,37,In Progress,3,2027-01-08
+28,4,Cloud,Python,47,Completed,2,2027-01-09
+36,9,ML,AWS,128,Completed,4,2027-01-10
+26,6,Data Science,Deep Learning,253,Completed,1,2027-01-11
+8,16,ML,SQL,77,Completed,2,2027-01-12
+50,2,Python,AWS,223,Completed,2,2027-01-13
+28,8,AI,AWS,227,Completed,5,2027-01-14
+28,11,AI,Machine Learning,186,In Progress,3,2027-01-15
+37,13,AI,SQL,173,In Progress,3,2027-01-16
+41,17,ML,Python,67,Completed,1,2027-01-17
+36,8,ML,Deep Learning,278,In Progress,4,2027-01-18
+27,18,AI,Machine Learning,67,Completed,1,2027-01-19
+17,18,ML,Deep Learning,297,In Progress,2,2027-01-20
+9,14,Cloud,Python,114,In Progress,2,2027-01-21
+33,15,Cloud,Python,237,In Progress,3,2027-01-22
+20,6,ML,AWS,256,In Progress,4,2027-01-23
+13,11,AI,Python,197,In Progress,5,2027-01-24
+28,13,ML,Deep Learning,92,In Progress,4,2027-01-25
+48,1,ML,SQL,195,Completed,2,2027-01-26
+29,6,ML,SQL,261,Completed,5,2027-01-27
+13,9,Python,AWS,247,In Progress,4,2027-01-28
+46,8,Cloud,Deep Learning,193,Completed,4,2027-01-29
+35,11,Data Science,Deep Learning,293,In Progress,5,2027-01-30
+6,19,Data Science,Python,219,Completed,2,2027-01-31
+18,9,Python,Deep Learning,106,In Progress,4,2027-02-01
+5,17,ML,Machine Learning,217,Completed,5,2027-02-02
+47,12,Python,Python,146,In Progress,2,2027-02-03
+25,14,Python,Machine Learning,193,Completed,5,2027-02-04
+2,15,AI,AWS,85,In Progress,5,2027-02-05
+10,16,Cloud,SQL,296,Completed,4,2027-02-06
+30,20,Data Science,AWS,151,In Progress,2,2027-02-07
+50,1,ML,SQL,246,In Progress,4,2027-02-08
+45,10,Data Science,AWS,34,In Progress,1,2027-02-09
+5,8,Data Science,Deep Learning,299,Completed,1,2027-02-10
+33,18,Cloud,Machine Learning,76,Completed,2,2027-02-11
+1,1,Data Science,SQL,259,Completed,5,2027-02-12
+18,2,Data Science,Python,127,In Progress,4,2027-02-13
+32,1,Python,Machine Learning,82,Completed,4,2027-02-14
+47,1,Cloud,Python,291,In Progress,2,2027-02-15
+49,9,AI,Machine Learning,19,Completed,2,2027-02-16
+11,13,ML,Machine Learning,220,Completed,1,2027-02-17
+21,1,Data Science,AWS,161,Completed,3,2027-02-18
+26,13,ML,SQL,14,Completed,2,2027-02-19
+25,20,AI,SQL,204,In Progress,3,2027-02-20
+22,7,ML,Machine Learning,292,Completed,2,2027-02-21
+27,2,AI,Deep Learning,122,Completed,5,2027-02-22
+49,6,Python,Deep Learning,280,In Progress,5,2027-02-23
+13,7,Data Science,Python,172,In Progress,1,2027-02-24
+33,14,AI,Python,114,Completed,1,2027-02-25
+34,18,ML,AWS,190,Completed,3,2027-02-26
+41,15,Data Science,Machine Learning,53,In Progress,2,2027-02-27
+35,2,Python,Python,291,In Progress,4,2027-02-28
+1,10,Data Science,Python,184,In Progress,1,2027-03-01
+21,12,AI,Machine Learning,171,Completed,4,2027-03-02
+48,17,Python,AWS,149,Completed,4,2027-03-03
+6,8,ML,Python,141,Completed,2,2027-03-04
+28,11,Python,AWS,96,In Progress,3,2027-03-05
+17,3,Python,SQL,185,In Progress,2,2027-03-06
+5,6,Cloud,AWS,192,In Progress,1,2027-03-07
+31,9,Python,Deep Learning,138,Completed,4,2027-03-08
+5,6,Python,Deep Learning,255,In Progress,2,2027-03-09
+38,9,Data Science,AWS,98,Completed,2,2027-03-10
+3,7,ML,Deep Learning,75,In Progress,2,2027-03-11
+23,9,Data Science,SQL,167,Completed,1,2027-03-12
+37,18,Data Science,Machine Learning,158,Completed,3,2027-03-13
+37,12,AI,Deep Learning,125,In Progress,2,2027-03-14
+10,8,Data Science,Deep Learning,223,Completed,1,2027-03-15
+10,8,Cloud,AWS,262,In Progress,4,2027-03-16
+19,18,Cloud,SQL,152,Completed,5,2027-03-17
+17,20,AI,Machine Learning,259,In Progress,1,2027-03-18
+21,15,ML,AWS,34,In Progress,5,2027-03-19
+14,7,ML,AWS,286,Completed,2,2027-03-20
+9,11,Data Science,SQL,79,In Progress,2,2027-03-21
+46,20,Data Science,Machine Learning,122,Completed,1,2027-03-22
+1,16,Data Science,SQL,121,In Progress,5,2027-03-23
+45,4,ML,Machine Learning,100,In Progress,2,2027-03-24
+13,6,Python,SQL,27,In Progress,4,2027-03-25
+4,3,Cloud,AWS,158,In Progress,3,2027-03-26
+1,9,Python,AWS,236,Completed,3,2027-03-27
+49,10,Python,Python,223,In Progress,2,2027-03-28
+40,14,ML,Deep Learning,160,In Progress,5,2027-03-29
+32,11,Python,SQL,201,Completed,2,2027-03-30
+34,18,AI,Python,49,Completed,5,2027-03-31
+28,12,Data Science,Deep Learning,251,Completed,4,2027-04-01
+31,12,AI,SQL,147,Completed,5,2027-04-02
+8,13,Cloud,Machine Learning,189,Completed,2,2027-04-03
+39,13,Data Science,Deep Learning,209,Completed,4,2027-04-04
+26,19,Python,AWS,212,In Progress,1,2027-04-05
+34,19,Cloud,Python,70,Completed,3,2027-04-06
+3,14,Data Science,Deep Learning,201,In Progress,2,2027-04-07
+50,4,Python,Deep Learning,14,Completed,2,2027-04-08
+12,13,AI,AWS,246,In Progress,2,2027-04-09
+1,8,Data Science,SQL,190,In Progress,4,2027-04-10
+44,19,Python,Machine Learning,46,In Progress,1,2027-04-11
+5,12,AI,AWS,65,Completed,5,2027-04-12
+30,18,Cloud,Machine Learning,246,Completed,1,2027-04-13
+30,6,Cloud,SQL,206,Completed,4,2027-04-14
+17,18,Cloud,Deep Learning,82,Completed,2,2027-04-15
+48,19,Cloud,Machine Learning,68,In Progress,3,2027-04-16
+47,5,ML,Python,249,Completed,2,2027-04-17
+23,9,Data Science,Python,11,In Progress,5,2027-04-18
+15,3,Data Science,AWS,197,In Progress,3,2027-04-19
+37,10,ML,SQL,39,Completed,2,2027-04-20
+21,19,Python,AWS,276,Completed,3,2027-04-21
+14,3,Python,AWS,117,Completed,1,2027-04-22
+2,15,Cloud,AWS,99,In Progress,4,2027-04-23
+11,1,AI,Python,214,Completed,2,2027-04-24
+39,7,Python,Python,229,In Progress,5,2027-04-25
+38,12,AI,AWS,103,Completed,1,2027-04-26
+34,17,Data Science,Python,112,In Progress,2,2027-04-27
+38,20,AI,SQL,232,Completed,1,2027-04-28
+50,5,Data Science,AWS,195,Completed,5,2027-04-29
+34,4,ML,Python,193,In Progress,2,2027-04-30
+18,12,ML,Machine Learning,171,Completed,5,2027-05-01
+30,20,Cloud,AWS,256,Completed,3,2027-05-02
+15,18,Python,AWS,40,Completed,5,2027-05-03
+27,17,Cloud,SQL,61,Completed,3,2027-05-04
+34,19,Data Science,Deep Learning,85,Completed,2,2027-05-05
+38,9,Cloud,Deep Learning,287,Completed,3,2027-05-06
+33,4,AI,SQL,49,Completed,2,2027-05-07
+24,2,Data Science,SQL,110,In Progress,2,2027-05-08
+15,4,ML,SQL,120,In Progress,4,2027-05-09
+30,2,Python,Deep Learning,258,Completed,2,2027-05-10
+42,15,Data Science,SQL,200,Completed,3,2027-05-11
+17,2,Data Science,Python,191,Completed,4,2027-05-12
+5,4,AI,AWS,218,In Progress,4,2027-05-13
+29,6,Python,AWS,31,In Progress,2,2027-05-14
+4,7,ML,Machine Learning,175,Completed,5,2027-05-15
+10,10,Data Science,Machine Learning,108,In Progress,5,2027-05-16
+17,19,Data Science,AWS,217,Completed,4,2027-05-17
+10,19,AI,Python,17,Completed,2,2027-05-18
+17,12,Cloud,Deep Learning,199,Completed,5,2027-05-19
+20,3,ML,Deep Learning,184,Completed,2,2027-05-20
+24,13,Python,Python,282,In Progress,2,2027-05-21
+5,18,Data Science,Deep Learning,26,In Progress,4,2027-05-22
+34,8,Data Science,SQL,99,Completed,4,2027-05-23
+6,15,ML,AWS,150,In Progress,1,2027-05-24
+2,1,Cloud,AWS,154,In Progress,5,2027-05-25
+13,3,Data Science,Python,175,Completed,5,2027-05-26
+43,8,ML,Deep Learning,87,In Progress,5,2027-05-27
+43,4,AI,Machine Learning,271,Completed,3,2027-05-28
+48,16,Cloud,Machine Learning,172,Completed,2,2027-05-29
+11,10,Python,Deep Learning,23,Completed,4,2027-05-30
+47,12,Data Science,Machine Learning,248,Completed,5,2027-05-31
+23,14,ML,Python,81,In Progress,1,2027-06-01
+16,14,AI,Python,152,Completed,5,2027-06-02
+31,2,Python,Deep Learning,292,In Progress,2,2027-06-03
+11,5,ML,Machine Learning,278,Completed,2,2027-06-04
+16,5,ML,Python,250,Completed,4,2027-06-05
+8,6,Python,Python,254,In Progress,3,2027-06-06
+4,13,AI,SQL,172,Completed,4,2027-06-07
+40,9,AI,SQL,69,In Progress,5,2027-06-08
+4,15,Cloud,Python,15,In Progress,1,2027-06-09
+25,14,Data Science,Deep Learning,206,Completed,4,2027-06-10
+3,7,Python,AWS,67,Completed,3,2027-06-11
+32,20,Python,AWS,226,Completed,4,2027-06-12
+3,2,Python,Python,35,Completed,2,2027-06-13
+27,7,AI,Python,14,Completed,5,2027-06-14
+29,6,Data Science,Python,29,Completed,5,2027-06-15
+32,17,Cloud,Deep Learning,207,In Progress,5,2027-06-16
+50,2,ML,SQL,68,In Progress,5,2027-06-17
+19,3,ML,Python,251,Completed,5,2027-06-18
+21,5,Python,Python,155,In Progress,5,2027-06-19
+5,5,Data Science,Machine Learning,282,In Progress,1,2027-06-20
+18,1,AI,Deep Learning,258,Completed,3,2027-06-21
+28,8,Data Science,Python,23,Completed,5,2027-06-22
+42,12,Data Science,Machine Learning,22,In Progress,3,2027-06-23
+22,4,AI,AWS,53,Completed,5,2027-06-24
+21,13,Python,Python,28,In Progress,4,2027-06-25
+6,15,Data Science,Python,72,Completed,5,2027-06-26
+1,11,ML,Machine Learning,248,In Progress,2,2027-06-27
+5,10,AI,Deep Learning,109,In Progress,1,2027-06-28
+41,3,Cloud,Python,172,In Progress,4,2027-06-29
+12,14,Python,AWS,131,In Progress,4,2027-06-30
+26,16,AI,Python,53,Completed,2,2027-07-01
+46,10,Cloud,AWS,154,Completed,5,2027-07-02
+34,10,Cloud,SQL,59,In Progress,1,2027-07-03
+49,12,Data Science,SQL,74,In Progress,4,2027-07-04
+14,9,Data Science,AWS,297,Completed,1,2027-07-05
+26,1,Data Science,Deep Learning,173,Completed,4,2027-07-06
+45,5,AI,Python,150,In Progress,5,2027-07-07
+27,20,AI,Python,137,In Progress,4,2027-07-08
+9,8,Python,SQL,248,In Progress,4,2027-07-09
+26,11,Data Science,AWS,196,In Progress,3,2027-07-10
+47,12,Cloud,Python,217,In Progress,5,2027-07-11
+22,1,ML,Python,229,Completed,2,2027-07-12
+47,20,Python,Deep Learning,199,In Progress,2,2027-07-13
+30,11,AI,Machine Learning,293,Completed,5,2027-07-14
+43,5,Python,SQL,246,Completed,2,2027-07-15
+48,15,Python,SQL,203,Completed,5,2027-07-16
+17,5,Python,Machine Learning,296,In Progress,2,2027-07-17
+26,12,Python,Python,268,Completed,3,2027-07-18
+36,5,ML,Deep Learning,255,Completed,2,2027-07-19
+1,17,Data Science,Deep Learning,145,Completed,4,2027-07-20
+8,17,Cloud,SQL,289,Completed,5,2027-07-21
+49,12,Python,Deep Learning,280,In Progress,1,2027-07-22
+35,15,Python,Machine Learning,180,In Progress,1,2027-07-23
+15,15,Python,Python,168,Completed,5,2027-07-24
+47,6,Data Science,Machine Learning,210,Completed,3,2027-07-25
+22,12,AI,AWS,54,In Progress,2,2027-07-26
+14,20,AI,SQL,273,In Progress,3,2027-07-27
+26,18,ML,Deep Learning,80,In Progress,1,2027-07-28
+28,14,AI,AWS,112,Completed,5,2027-07-29
+23,2,Python,Deep Learning,134,In Progress,5,2027-07-30
+14,9,Python,Python,295,Completed,3,2027-07-31
+24,5,Python,Python,239,Completed,3,2027-08-01
+2,20,ML,Python,155,In Progress,2,2027-08-02
+45,1,Python,Deep Learning,206,Completed,4,2027-08-03
+26,3,AI,AWS,230,In Progress,4,2027-08-04
+14,6,Data Science,Python,69,Completed,2,2027-08-05
+7,5,Data Science,AWS,107,In Progress,4,2027-08-06
+3,5,Cloud,Deep Learning,180,Completed,1,2027-08-07
+47,1,AI,AWS,182,Completed,4,2027-08-08
+23,17,Python,Deep Learning,160,In Progress,2,2027-08-09
+46,19,Data Science,Deep Learning,131,In Progress,4,2027-08-10
+43,14,AI,SQL,117,In Progress,5,2027-08-11
+47,12,Data Science,Deep Learning,13,In Progress,3,2027-08-12
+45,10,Python,Deep Learning,102,Completed,1,2027-08-13
+18,20,Data Science,Machine Learning,15,In Progress,5,2027-08-14
+38,18,Cloud,Python,297,In Progress,5,2027-08-15
+35,11,Cloud,SQL,115,Completed,2,2027-08-16
+15,2,Data Science,SQL,155,In Progress,3,2027-08-17
+25,18,AI,SQL,280,In Progress,3,2027-08-18
+37,7,AI,Machine Learning,105,Completed,1,2027-08-19
+28,15,AI,Deep Learning,238,In Progress,2,2027-08-20
+10,11,Data Science,Python,211,In Progress,1,2027-08-21
+39,18,AI,AWS,221,In Progress,4,2027-08-22
+17,12,Python,Deep Learning,15,In Progress,5,2027-08-23
+39,6,Cloud,Machine Learning,121,In Progress,1,2027-08-24
+22,20,Python,Deep Learning,115,In Progress,5,2027-08-25
+26,13,AI,Deep Learning,148,Completed,2,2027-08-26
+44,20,Python,Machine Learning,105,In Progress,4,2027-08-27
+25,16,AI,SQL,223,Completed,2,2027-08-28
+17,18,Data Science,SQL,31,Completed,4,2027-08-29
+13,10,Python,Python,202,Completed,4,2027-08-30
+20,8,Data Science,Python,159,Completed,5,2027-08-31
+25,18,Data Science,SQL,256,In Progress,2,2027-09-01
+4,1,ML,AWS,276,In Progress,2,2027-09-02
+10,8,AI,Deep Learning,260,In Progress,1,2027-09-03
+3,6,Cloud,AWS,12,Completed,2,2027-09-04
+41,5,AI,Deep Learning,85,In Progress,1,2027-09-05
+45,15,Cloud,SQL,96,In Progress,3,2027-09-06
+18,15,AI,Python,279,In Progress,3,2027-09-07
+47,2,Data Science,Python,234,Completed,3,2027-09-08
+36,1,Python,AWS,27,Completed,2,2027-09-09
+47,11,Python,Python,122,In Progress,2,2027-09-10
+22,10,ML,SQL,260,Completed,1,2027-09-11
+34,18,Cloud,AWS,242,Completed,4,2027-09-12
+47,18,Cloud,Deep Learning,288,In Progress,1,2027-09-13
+8,17,Cloud,Python,211,Completed,3,2027-09-14
+40,8,Data Science,Machine Learning,92,Completed,1,2027-09-15
+49,15,Cloud,Python,134,In Progress,4,2027-09-16
+44,8,Python,Deep Learning,184,Completed,2,2027-09-17
+19,17,Data Science,AWS,78,Completed,1,2027-09-18
+42,12,AI,Deep Learning,56,Completed,3,2027-09-19
+41,8,Cloud,Machine Learning,265,Completed,3,2027-09-20
+37,14,Cloud,SQL,224,Completed,2,2027-09-21
+6,4,AI,Python,39,Completed,1,2027-09-22
+26,1,Cloud,AWS,290,Completed,4,2027-09-23
+34,1,AI,SQL,246,Completed,2,2027-09-24
+45,19,Data Science,Deep Learning,257,In Progress,1,2027-09-25
+6,16,Python,AWS,34,In Progress,5,2027-09-26
+37,14,AI,SQL,83,In Progress,3,2027-09-27
